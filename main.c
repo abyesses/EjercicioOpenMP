@@ -5,8 +5,7 @@
 //  Created by Abraham Esses on 4/18/16.
 //  Copyright © 2016 Abraham Esses. All rights reserved.
 //
-
-//#include <omp.h>
+#include <omp.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
